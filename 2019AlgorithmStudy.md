@@ -1,8 +1,5 @@
-# 2019AlgorithmStudy
+# 2019 Algorithm Study
 
-안녕하세요
-d
 
-gkgkgkgkgkgkgkgk
-dsasdaasdasdasdasd
-asdasdas
+
+
